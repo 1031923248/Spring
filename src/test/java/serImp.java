@@ -9,7 +9,7 @@ public class serImp {
     public void Test(){
         ser1 ser1 = new ser1Imp();
         ser1.dosome();
-        System.out.println(3);
+        System.out.println(4);
     }
     @Test
     public void Test01(){
